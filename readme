@@ -1,0 +1,6 @@
+## Conditions to list
+
+This file takes conditions.csv, and returns three separate lists: 
+  - condition names
+  - condition types 
+  - conditions categorized (condition names paired with the type of condition
